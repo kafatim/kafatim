@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kafatim
+- 👋 Hi, I’m @kafatimraz
 - 👀 I’m interested in web developer.
 - 🌱 I’m currently learning front end developer
 
